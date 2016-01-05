@@ -1,0 +1,16 @@
+include main
+
+h2= productsType
+div
+    ul
+        each product in products
+            li
+                div
+                    strong Brand:&nbsp
+                    span= product.brand
+                div
+                    strong Model:&nbsp
+                    a(href="https://www.google.com/?gws_rd=ssl#q=" + product.brand + "+" + product.model, title="Search Google")
+                        span= product.model
+
+include footer
