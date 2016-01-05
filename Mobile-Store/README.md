@@ -12,6 +12,7 @@
 
 
 ## Results
-	![Home] (screenshots/home.png)
-	![Tablets] (screenshots/tablets.png)
-		
+* Home
+![Home](screenshots/home.png)
+* Tablets
+![Tablets](screenshots/tablets.png)
