@@ -1,0 +1,15 @@
+{
+  "name": "mobile-store",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jade": "^1.11.0"
+  }
+}
