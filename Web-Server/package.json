@@ -1,0 +1,16 @@
+{
+  "name": "filetransfer",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "node-uuid": "^1.4.7"
+  }
+}
